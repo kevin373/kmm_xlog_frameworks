@@ -1,0 +1,8 @@
+framework module kmm_xlog {
+    umbrella header "kmm_xlog.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
